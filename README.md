@@ -1,4 +1,4 @@
-# 🚦 AI-Based Traffic Light Control using Reinforcement Learning
+#  AI-Based Traffic Light Control using Reinforcement Learning
 
 An RL-driven traffic light controller built using **SUMO** and **Stable Baselines3 (PPO)** to optimize signal timing and reduce waiting times.
 
@@ -12,6 +12,5 @@ An RL-driven traffic light controller built using **SUMO** and **Stable Baseline
 
 ---
 
-## 📦 Installation
-```bash
-pip install -r requirements.txt
+## Installation
+

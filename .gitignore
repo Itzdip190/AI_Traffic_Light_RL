@@ -1,0 +1,16 @@
+__pycache__/
+*.log
+*.zip
+*.mp4
+*.csv
+*.xml
+*.sumo
+*.net.xml
+*.rou.xml
+*.cfg
+output/
+logs/
+video_frames/
+venv/
+.env
+.DS_Store

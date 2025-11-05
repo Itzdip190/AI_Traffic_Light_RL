@@ -1,0 +1,7 @@
+Day 7: Analysis Results
+
+- RL agent shows adaptive phase switching under variable traffic.
+- Average waiting time ↓ 35% vs Fixed Timer.
+- Throughput ↑ by 20–25%.
+- Reward curve stabilizes after ~10 episodes.
+Conclusion: RL adapts better to dynamic flow. Fixed Timer remains consistent but less efficient.

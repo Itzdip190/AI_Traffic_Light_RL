@@ -1,0 +1,17 @@
+numpy
+gymnasium
+traci
+matplotlib
+pandas
+pillow
+imageio
+tqdm
+stable-baselines3
+
+
+
+stable-baselines3==2.3.0
+gymnasium
+numpy
+matplotlib
+pandas
